@@ -1,0 +1,15 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.start = 'start';
+exports.menu = 'menu';
+exports.registration_start = 'registration_start';
+exports.registration_type_name = 'registration_name';
+exports.registration_type_second_name = 'registration_type_second_name';
+exports.registration_check_university = 'registration_check_university';
+exports.registration_type_course = 'registration_type_course';
+exports.registration_type_group = 'registration_type_group';
+exports.registration_type_phone_number = 'registration_type_phone_number';
+exports.registration_type_expectations = 'registration_type_expectations';
+// export const admin_show_registrated = 'admin_show_registrated';
+// export const admin_user_information = 'admin_user_information';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicm91dGVyLmpzIiwic291cmNlUm9vdCI6Ii9ob21lL3Zpc3RyaWJsZS/QlNC+0LrRg9C80LXQvdGC0YsvTWFnaWMgb2YgUHJvZ3JhbW1pbmcvdGVsZWdyYW0tYm90LW5ldy9zcmMvIiwic291cmNlcyI6WyJzcmMvcm91dGVyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBQWEsUUFBQSxLQUFLLEdBQUcsT0FBTyxDQUFDO0FBRWhCLFFBQUEsSUFBSSxHQUFHLE1BQU0sQ0FBQztBQUNkLFFBQUEsa0JBQWtCLEdBQUcsb0JBQW9CLENBQUM7QUFDMUMsUUFBQSxzQkFBc0IsR0FBRyxtQkFBbUIsQ0FBQztBQUM3QyxRQUFBLDZCQUE2QixHQUFHLCtCQUErQixDQUFDO0FBQ2hFLFFBQUEsNkJBQTZCLEdBQUcsK0JBQStCLENBQUM7QUFDaEUsUUFBQSx3QkFBd0IsR0FBRywwQkFBMEIsQ0FBQztBQUN0RCxRQUFBLHVCQUF1QixHQUFHLHlCQUF5QixDQUFDO0FBQ3BELFFBQUEsOEJBQThCLEdBQUcsZ0NBQWdDLENBQUM7QUFDbEUsUUFBQSw4QkFBOEIsR0FBRyxnQ0FBZ0MsQ0FBQztBQUUvRSxrRUFBa0U7QUFDbEUsa0VBQWtFIn0=

@@ -1,1 +1,4 @@
 node_modules/
+/src/config/token.ts
+.vscode/
+rethinkdb_data/

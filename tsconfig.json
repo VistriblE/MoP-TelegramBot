@@ -7,7 +7,7 @@
     "inlineSourceMap": true,
     "sourceRoot": "src",
     "outDir": "build",
-    "noImplicitAny": false,
+    "noImplicitAny": true,
     "strictNullChecks": true,
     "experimentalDecorators": true
   },
